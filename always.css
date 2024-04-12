@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://source.unsplash.com/200x200/?tiger");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

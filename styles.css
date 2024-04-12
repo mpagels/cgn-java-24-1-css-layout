@@ -1,0 +1,19 @@
+h1 {
+    color: green;
+}
+
+#extra-color {
+    color: aqua;
+}
+
+.pink-font {
+    color: hotpink;
+}
+
+.blog-entry {
+    border: 1px solid black;
+}
+
+h2:hover {
+    color: red;
+}
